@@ -1,4 +1,4 @@
-# Expense Tracker Pro
+# Expense Tracker
 
 A modern, feature-rich desktop application for personal expense tracking with intuitive visualizations and robust data management.
 
@@ -59,13 +59,13 @@ pip install Pillow
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker-pro.git
+git clone https://github.com/abhijjeeet/Expense-tracker.git
 ```
 
 Navigate to project directory:
 
 ```bash
-cd expense-tracker-pro
+cd Expense-tracker
 ```
 
 Run the application:
