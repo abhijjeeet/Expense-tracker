@@ -1,0 +1,7 @@
+Food
+Transport
+Entertainment
+Utilities
+Shopping
+Meeting
+Education
