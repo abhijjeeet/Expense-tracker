@@ -134,5 +134,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Built with Python's Tkinter library
 
 ---
-
-> **Note:** Replace placeholder values (screenshot paths, repository URL, etc.) with your actual project information. Add a `LICENSE` file if needed and customize the acknowledgements section as appropriate.
